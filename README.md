@@ -49,20 +49,20 @@ App ini merupakan sebuah web aplikasi dengan tema eCommerce, yang dibuat dengan 
 
 - landing
 
-![Open in Visual Studio Code](/assets/landing.PNG)
+![Open in Visual Studio Code](/assets/landing.png)
 
 - login
 
-![Open in Visual Studio Code](/assets/login.PNG)
+![Open in Visual Studio Code](/assets/login.png)
 
 - register
 
-![Open in Visual Studio Code](/assets/register.PNG)
+![Open in Visual Studio Code](/assets/register.png)
 
 - all product
 
-![Open in Visual Studio Code](/assets/allproduct.PNG)
+![Open in Visual Studio Code](/assets/allproduct.png)
 
 - cart
 
-![Open in Visual Studio Code](/assets/cart.PNG)
+![Open in Visual Studio Code](/assets/cart.png)
